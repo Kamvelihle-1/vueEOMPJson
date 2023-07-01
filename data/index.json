@@ -1,0 +1,140 @@
+{
+    "education" : [
+    {
+        "id": 1,
+        "year": 2023,
+        "description": "Attending Life Choices Coding Academy full-stack web development course ",
+        "place": "Life Choices",
+        "certificate": ""
+    },
+    {
+        "id": 2,
+        "year": 2021,
+        "description": "Attended Stellenbosch University for BSc Mathemetical Sciences(Computer Science)",
+        "place": "Stellenbosch University",
+        "certificate": "Incomplete, financial issues"
+    },
+    {
+        "id": 3,
+        "year": 2020,
+        "description": "I gradueted my Metric ",
+        "place": "COSAT(Centre Of Science And Technology)",
+        "certificate": "Metric certificate "
+    }
+   
+],
+    "Skills":[
+        {
+            "type":"HTML",
+            "icon":"https://i.postimg.cc/hv1bhQmL/icons8-html-logo-96.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"CSS",
+            "icon":"https://i.postimg.cc/qvzyH51X/icons8-css-logo-96.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"Bootstrap",
+            "icon":"https://i.postimg.cc/MpMMFjG9/icons8-bootstrap-logo-96.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"Java",
+            "icon":"https://i.postimg.cc/BZ7vfQkk/icons8-java-logo-96.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"Python",
+            "icon":"https://i.postimg.cc/DwrJh3qG/icons8-python-96.png",
+            "level":"Beginner"
+        },
+        {
+            "type":"JavaScript",
+            "icon":"https://i.postimg.cc/fyYtRG61/icons8-javascript-96.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"Vue.js",
+            "icon":"https://i.postimg.cc/jdZNnbWr/icons8-vue-js-96.png",
+            "level":"Beginner"
+        },
+        {
+            "type":"Communication",
+            "icon":"https://i.postimg.cc/05mrqqGC/icons8-communication-skill-100.png",
+            "level":"Skilled"
+        },
+        {
+            "type":"Teamwork",
+            "icon":"https://i.postimg.cc/fLS7Ng50/icons8-teamwork-80.png",
+            "level":"Skilled"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Temperature Convertor",
+            "description":"My first attempt at making a temperature convertor, using Javascript,CSS & HTML",
+            "image":"https://i.postimg.cc/wBPrcBWk/Screenshot-2023-06-07-115837.png",
+            "website":"https://stately-sorbet-79534f.netlify.app/",
+            "repoLink":"https://github.com/SmasherK/jsTempConvetor.git"
+        },
+        {
+            "title":"First Portfolio",
+            "description":"My first portfolio website, made using HTML & CSS",
+            "image":"https://i.postimg.cc/G3YrKHfx/Screenshot-2023-07-01-101753.png",
+            "website":"https://kamvelihle-sikalana-portfolio.netlify.app/",
+            "repoLink":"https://github.com/SmasherK/BootstrapProj.git"
+        },
+        {
+            "title":"Future Properties",
+            "description":"My first ecommerse (admin side/view) website, made using HTML,CSS & Javascript",
+            "image":"https://i.postimg.cc/FsnbGcxC/Screenshot-2023-07-01-102541.png",
+            "website":"https://jseeomp.netlify.app/",
+            "repoLink":"https://github.com/SmasherK/jsEOMP.git"
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Thotyelwa",
+            "surname":"Mpongwana",
+            "image":"https://i.postimg.cc/nVTpd8Hh/IMG-1425.jpg",
+            "testimonial":"Kamva is really strong in HTML & CSS. When working in a team everyone always asks him for help and hes is always willing to help which is a great perk to have when working with a team.",
+            "relation":"Colleague"
+        },
+        {
+            "name":"Aphelele",
+            "surname":"Joyi",
+            "image":"https://i.postimg.cc/ydbndYmN/C12-Aphelele-Joyi-1.jpg",
+            "testimonial":"Kamva is a very good student, with a positive attitude towards learning. He does not withhold information and is an excellent team player. He has good communication and critical thinking skills. I believe all these qualities make him an assert for any team.",
+            "relation":"Colleague"
+        },
+        {
+            "name":"Amy",
+            "surname":"Pieterse",
+            "image":"https://i.postimg.cc/RZGvDj1R/C12-C2-Amy-Pieterse-2.jpg",
+            "testimonial":"Working with Kamvelihle was a pleasure. I was impressed by his ability to communicate complex ideas in a clear and concise manner. He is a skilled and dependable web developer with a strong work ethic and deep commitment to producing quality work.",
+            "relation":"Colleague"
+        },
+        {
+            "name":"Siyamanga",
+            "surname":"Zweni",
+            "image":"https://i.postimg.cc/RFBGJb8k/C12-C2-Siyamanga-Zweni-2.jpg",
+            "testimonial":"Kamvelihle is an exceptional learner with a keen eye for detail, He is also an excellent team player who always goes above and beyond to support her fellow students. His determination and willingness to collaborate makes him a valuable asset to any project team. I have no doubt that he will continue to excel in his career and make meaningful contributions to the field of technology.",
+            "relation":"Colleague"
+        },
+        {
+            "name":"Imraan",
+            "surname":"Bernksen",
+            "image":"https://i.postimg.cc/SNMXHNjG/t0.jpg",
+            "testimonial":"I highly recommend Kamvelihle Sikalana, an aspiring web developer with a passion for creating stunning and functional websites. Kamvelihle has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project.",
+            "relation":"Assistant Lecturer"
+        },
+        {
+            "name":"Joel",
+            "surname":"Mukanya",
+            "image":"https://i.postimg.cc/mkWDYKTR/Joel-Profile.jpg",
+            "testimonial":"Kamvelihe is very well-behaved, social, and dedicated; he enjoys working with his peers and works well on his project. He learned HTML, CSS,Bootstrap, and VueJS.He will learn more in the coming months",
+            "relation":"Lecturer"
+        }
+    ]
+}
