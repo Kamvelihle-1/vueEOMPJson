@@ -2,21 +2,21 @@
     "education" : [
     {
         "id": 1,
-        "year": 2023,
+        "year": "2023",
         "description": "Attending Life Choices Coding Academy full-stack web development course ",
         "place": "Life Choices",
         "certificate": ""
     },
     {
         "id": 2,
-        "year": 2021,
+        "year": "2021 -2022",
         "description": "Attended Stellenbosch University for BSc Mathemetical Sciences(Computer Science)",
         "place": "Stellenbosch University",
         "certificate": "Incomplete, financial issues"
     },
     {
         "id": 3,
-        "year": 2020,
+        "year": "2016-2020",
         "description": "I gradueted my Metric ",
         "place": "COSAT(Centre Of Science And Technology)",
         "certificate": "Metric certificate "
