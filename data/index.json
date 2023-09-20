@@ -57,7 +57,17 @@
         {
             "type":"Vue.js",
             "icon":"https://i.postimg.cc/jdZNnbWr/icons8-vue-js-96.png",
-            "level":"Beginner"
+            "level":"Intermediate"
+        },
+        {
+            "type":"Node Js",
+            "icon":"https://i.postimg.cc/W1pHT5F9/icons8-nodejs-48.png",
+            "level":"Intermediate"
+        },
+        {
+            "type":"MySQL",
+            "icon":"https://i.postimg.cc/tRfdv2p0/icons8-mysql-48.png",
+            "level":"Intermediate"
         },
         {
             "type":"Communication",
