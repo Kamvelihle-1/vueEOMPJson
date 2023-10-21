@@ -3,14 +3,14 @@
     {
         "id": 1,
         "year": "2023",
-        "description": "Attending Life Choices Coding Academy full-stack web development course ",
+        "description": "Full-stack web development 6 months course ",
         "place": "Life Choices",
-        "certificate": ""
+        "certificate": "Graduated"
     },
     {
         "id": 2,
         "year": "2021 -2022",
-        "description": "Attended Stellenbosch University for BSc Mathemetical Sciences(Computer Science)",
+        "description": "BSc Mathemetical Sciences(Computer Science)",
         "place": "Stellenbosch University",
         "certificate": "Incomplete, financial issues"
     },
