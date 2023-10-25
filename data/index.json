@@ -101,6 +101,13 @@
             "image":"https://i.postimg.cc/FsnbGcxC/Screenshot-2023-07-01-102541.png",
             "website":"https://jseeomp.netlify.app/",
             "repoLink":"https://github.com/SmasherK/jsEOMP.git"
+        },
+        {
+            "title":"Genius Hous",
+            "description":"My second ecommerse website, made using NodeJS and Vue3.js",
+            "image":"https://i.postimg.cc/sXrmVwZF/Screenshot-2023-10-25-092048.png",
+            "website":"https://capstone-7564b.web.app/",
+            "repoLink":"https://github.com/Kamvelihle-1/Capstone"
         }
     ],
     "testimonials":[
